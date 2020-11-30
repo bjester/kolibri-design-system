@@ -3,7 +3,7 @@
 
 ## Usage
 
-How to use the Kolibri Design System
+How to use the Kolibri Design System. Hooray!
 
 
 ### Documentation
